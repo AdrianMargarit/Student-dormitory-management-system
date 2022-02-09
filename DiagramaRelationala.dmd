@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="DiagramaRelationala" id="56015CEA-2044-9D5F-83DB-20B4FF9E5BC3" version="3.5">
+<createdBy>tranc</createdBy>
+<createdTime>2022-01-11 11:28:37 UTC</createdTime>
+<ownerDesignName>DiagramaRelationala</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>56015CEA-2044-9D5F-83DB-20B4FF9E5BC3</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="C0999504-7C2C-7FD8-5992-7970978FF4C4">
+<designStoragePath>B:\Informatica\Sisteme de Baze de Date\Proiect Camin</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
